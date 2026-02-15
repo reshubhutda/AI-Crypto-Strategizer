@@ -14,6 +14,8 @@ Instead of relying on gut feeling or single indicators, the system analyzes the 
 
 An AI agent powered by LangChain and Groq orchestrates all three analyses, synthesizes the results, and generates a human-readable trading report.
 
+![Image](https://github.com/reshubhutda/AI-Crypto-Strategizer/blob/main/AI%20Agent%20Flow.png)
+
 ## Data Pipeline: Binance Integration
 
 **Real-Time Market Data**
