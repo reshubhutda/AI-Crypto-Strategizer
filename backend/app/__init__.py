@@ -1,0 +1,1 @@
+from app.services.binance_service import binance_service
