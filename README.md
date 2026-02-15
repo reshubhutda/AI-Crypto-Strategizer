@@ -16,6 +16,14 @@ An AI agent powered by LangChain and Groq orchestrates all three analyses, synth
 
 ![Image](https://github.com/reshubhutda/AI-Crypto-Strategizer/blob/main/AI%20Agent%20Flow.png)
 
+**Output** 
+![Image](https://github.com/reshubhutda/AI-Crypto-Strategizer/blob/main/browser%20output%201.png)
+![Image](https://github.com/reshubhutda/AI-Crypto-Strategizer/blob/main/browser%20output%202.png)
+![Image](https://github.com/reshubhutda/AI-Crypto-Strategizer/blob/main/browser%20output%203.png)
+![Image](https://github.com/reshubhutda/AI-Crypto-Strategizer/blob/main/terminal%20output%201.png)
+![Image](https://github.com/reshubhutda/AI-Crypto-Strategizer/blob/main/terminal%20output%202.png)
+
+
 ## Data Pipeline: Binance Integration
 
 **Real-Time Market Data**
